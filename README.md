@@ -1,1 +1,1 @@
-VK pre-interview task. Reverse linked list.
+VK pre-interview task to reverse a linked list.
